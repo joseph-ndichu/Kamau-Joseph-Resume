@@ -24,14 +24,14 @@ Dedan Kimathi University of Technology (DeKUT) · Graduated May 2025 · Second C
 ## Certifications
 
 ### Introduction to Cybersecurity
-*Cisco Networking Academy · Issued Sep 12, 2026 · [View certificate](certificates/Introduction_to_Cybersecurity.pdf)*
+*Cisco Networking Academy · Issued Sep 12, 2026 · [View certificate](certificates/Introduction_to_Cybersecurity.jpg)*
 
 - Identified common cyber threats, attacks, and vulnerabilities.
 - Learned best practices for securing personal and organizational data online.
 - Explored career pathways and resources within the cybersecurity industry.
 
 ### Networking Basics
-*Cisco Networking Academy · Issued Oct 2, 2026 · [View certificate](certificates/Networking_Basics.pdf)*
+*Cisco Networking Academy · Issued Oct 2, 2026 · [View certificate](certificates/Networking_Basics.jpg)*
 
 - Covered core concepts of network communication, types, components, and connections.
 - Studied the importance of standards and protocols (TCP/IP) in network communications.
@@ -39,20 +39,20 @@ Dedan Kimathi University of Technology (DeKUT) · Graduated May 2025 · Second C
 - Configured, tested, and troubleshot integrated wireless routers and wireless clients for secure internet connectivity.
 
 ### Introduction to Excel
-*Data Camp · Issued Aug 30, 2026 · [View certificate](certificates/Introduction_to_Excel.pdf)*
+*Data Camp · Issued Aug 30, 2026 · [View certificate](certificates/Introduction_to_Excel.jpg)*
 
 - Learned how to manage data and apply aggregate functions in various topics such as creating named ranges, 
 using subtotals to summarize groups and applying data validation rules.
 - Covered visualizing basic data from text, date and time, statistical functions and learning to use builtin excel features to visualize data. 
 
 ### Introduction to SQL
-*Data Camp · Issued Jan 16, 2023 · [View certificate](certificates/Introduction_to_SQL.pdf)*
+*Data Camp · Issued Jan 16, 2023 · [View certificate](certificates/Introduction_to_SQL.jpg)*
 - Explored the fundamentals of relational databases, including table organization, data types, and unique IDs.
 - Practiced writing SQL queries to select, filter, and alias data, and learned how to save and share views.
 - Analyzed different SQL flavors (PostgreSQL, SQL Server) and translated queries between them.
 
 ### Understanding Data Science
-*Data Camp · Issued Jan 15, 2023 · [View certificate](certificates/Understanding_Data_Science.pdf)*
+*Data Camp · Issued Jan 15, 2023 · [View certificate](certificates/Understanding_Data_Science.jpg)*
 - Mastered the foundational data science workflow, from data collection and storage (databases, ETL pipelines) to preparation and cleaning.
 - Conducted Exploratory Data Analysis (EDA) and created visualizations to identify data trends and present findings effectively.
 - Explored predictive analytics, including A/B testing, time series forecasting, and introductory machine learning (supervised learning and clustering).
